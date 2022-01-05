@@ -1,0 +1,20 @@
+.container{
+	border: 0px solid red;
+}
+
+.user{
+	border: 0px solid lightgrey;
+	margin-left:10px;
+	text-align: center;
+	box-shadow: black;
+	background-color: #FFF0E4;
+}
+
+footer ul li {
+	font-size: 12px;
+}
+
+footer{
+	background-color: #30492E;
+	padding: 5px;
+ }
